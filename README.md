@@ -14,3 +14,4 @@ Calling :e or :edit is required since vim will need to refresh the buffer to dis
 Features to add:
 Program should make sure that file it is checking has an empty line at the end.
 
+Possibly adding libregex as a dependency(deeply burried) with its original name.
