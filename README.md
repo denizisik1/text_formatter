@@ -1,5 +1,7 @@
 ### VimL
 
+I changed my mind write it in rust, it it needs to be written anyway.
+
 After adding it to the $PATH,
 
 There has to be a vim shortcut of sorts:
